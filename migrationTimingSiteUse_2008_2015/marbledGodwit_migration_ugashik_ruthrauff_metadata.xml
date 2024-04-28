@@ -1,0 +1,1197 @@
+<?xml version="1.0"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Ruthrauff, Daniel R. (ORCID: 0000-0003-1355-9156)</origin>
+        <origin>Tibbitts, T.Lee (ORCID: 0000-0002-0290-7592)</origin>
+        <origin>Gill, Robert E., Jr. (ORCID: 0000-0002-6385-4500)</origin>
+        <pubdate>20190228</pubdate>
+        <title>Migratory Timing and Site Use of Marbled Godwits Breeding in Alaska, 2008–2015</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Anchorage, Alaska</pubplace>
+          <publish>U.S. Geological Survey, Alaska Science Center</publish>
+        </pubinfo>
+        <othercit>Suggested Citation:  Ruthrauff, D.R, Tibbitts, T.L., Gill, R.E., Jr. 2019, Migratory timing and site use of Marbled Godwits breeding in Alaska, 2008–2015: U.S. Geological Survey data release, https://doi.org/10.5066/F7XK8DTM</othercit>
+        <onlink>https://doi.org/10.5066/F7XK8DTM</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>U.S. Geological Survey, Alaska Science Center</origin>
+            <pubdate>2001</pubdate>
+            <title>Population Status and Ecology of North Pacific Shorebirds</title>
+            <geoform>website</geoform>
+            <serinfo>
+              <sername>Alaska Science Portal</sername>
+              <issue>82</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Anchorage, Alaska</pubplace>
+              <publish>U.S. Geological Survey, Alaska Science Center</publish>
+            </pubinfo>
+            <othercit>This is a link to the broader USGS Alaska Science Center research project supported by these data. Users will find a description of the research project and links to associated reports, publications, and data products.</othercit>
+            <onlink>https://alaska.usgs.gov/portal/project.php?project_id=82</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains migration timing and land-based location information from nine Marbled Godwits (Limosa fedoa beringiae) equipped with solar-powered satellite transmitters on breeding grounds near Ugashik, Alaska, in June of 2008. Transmitters were programmed with a duty cycle of 10 hr on and 48 hr off, yielding 10,858 locations (47-3,490 locations per bird, depending on the duration of each transmitter’s functional deployment). This dataset provides summarized timing and location data for each transmittered bird.</abstract>
+      <purpose>These data were collected in support of a study to document the poorly delineated basic aspects of migration ecology of the Alaskan subspecies of Marbled Godwits (beringiae). In particular, to describe individual migratory movements across years and to evaluate site use.</purpose>
+      <supplinf>The source data with tracking locations obtained through the Argos System are available at: Ruthrauff, D.R., T.L. Tibbitts, R.E. Gill, Jr., and Douglas, D.C., 2019, Satellite Telemetry Data for Marbled Godwit (Limosa fedoa) (ver 1.0, 2019): U.S. Geological Survey data release, https://doi.org/10.5066/P9NORY48</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2008</begdate>
+          <enddate>2015</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Coastal areas of the Pacific Northwest from the Gulf of Alaska region to California.</descgeog>
+      <bounding>
+        <westbc>-158.378</westbc>
+        <eastbc>-121.559</eastbc>
+        <northbc>60.291</northbc>
+        <southbc>36.772</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:ASC200</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>Biota</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>NASA GCMD Earth Science Keyword Thesaurus</themekt>
+        <themekey>Animals/Vertebrates</themekey>
+        <themekey>Birds</themekey>
+        <themekey>Sandpipers</themekey>
+        <themekey>Species life history</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS CSA Biocomplexity Thesaurus</themekt>
+        <themekey>Distribution</themekey>
+        <themekey>Migration (organisms)</themekey>
+        <themekey>Migratory birds</themekey>
+        <themekey>Seasonal distribution</themekey>
+        <themekey>Seasonal movement</themekey>
+        <themekey>Overwintering</themekey>
+        <themekey>Breeding sites</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>Wildlife</themekey>
+        <themekey>Ornithology</themekey>
+        <themekey>Natural Resource Management</themekey>
+        <themekey>Plant and Animal Tagging</themekey>
+        <themekey>Field Methods</themekey>
+        <themekey>Field Inventory and Monitoring</themekey>
+        <themekey>Telemetry</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Migration Pathway</themekey>
+        <themekey>Migratory Strategies</themekey>
+        <themekey>Wintering Area</themekey>
+        <themekey>Breeding Area</themekey>
+        <themekey>Satellite Transmitter</themekey>
+        <themekey>PTT</themekey>
+      </theme>
+      <place>
+        <placekt>USGS Geographic Names Information System (GNIS)</placekt>
+        <placekey>Alaska</placekey>
+        <placekey>Washington</placekey>
+        <placekey>California</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Alaska Peninsula</placekey>
+        <placekey>Alsek River</placekey>
+        <placekey>Baranof Island</placekey>
+        <placekey>Becharof Lake</placekey>
+        <placekey>Bodega Bay</placekey>
+        <placekey>Bolinas Bay</placekey>
+        <placekey>Chiginagak Bay</placekey>
+        <placekey>Controller Bay</placekey>
+        <placekey>Copper River Delta</placekey>
+        <placekey>Bird Rock</placekey>
+        <placekey>Dangerous River</placekey>
+        <placekey>Drakes Estero</placekey>
+        <placekey>Grays Harbor</placekey>
+        <placekey>Humboldt Bay</placekey>
+        <placekey>Clam Beach</placekey>
+        <placekey>Kamishak Bay</placekey>
+        <placekey>Kodiak Island</placekey>
+        <placekey>Kvichak Bay</placekey>
+        <placekey>Naknek River</placekey>
+        <placekey>Malaspina Glacier</placekey>
+        <placekey>Montague Island</placekey>
+        <placekey>Elkhorn Slough</placekey>
+        <placekey>Point Arena</placekey>
+        <placekey>Prince of Wales Island</placekey>
+        <placekey>Kuiu Island</placekey>
+        <placekey>San Francisco Bay</placekey>
+        <placekey>Ugashik Bay</placekey>
+        <placekey>Wide Bay</placekey>
+        <placekey>Willapa Bay</placekey>
+        <placekey>Yakutat</placekey>
+        <placekey>Ocean Beach</placekey>
+      </place>
+      <place>
+        <placekt>NGIA GeoNames System</placekt>
+        <placekey>British Columbia</placekey>
+        <placekey>Green Island</placekey>
+        <placekey>Vancouver Island</placekey>
+        <placekey>Queen Charlotte Islands</placekey>
+        <placekey>Tofino</placekey>
+        <placekey>Ucluelet</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Marbled Godwit</taxonkey>
+        <taxonkey>Limosa fedoa beringiae</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>ITIS Integrated Taxonomic Information System</origin>
+              <pubdate>Unknown</pubdate>
+              <title>ITIS Integrated Taxonomic Information System</title>
+              <geoform>online database</geoform>
+              <pubinfo>
+                <pubplace>online</pubplace>
+                <publish>ITIS-North America</publish>
+              </pubinfo>
+              <othercit>Taxonomic details retrieved November 25, 2022 from the ITIS Integrated Taxonomic Information System online database  https://www.itis.gov</othercit>
+              <onlink>https://doi.org/10.5066/F7KH0KBK</onlink>
+            </citeinfo>
+          </classcit>
+        </classsys>
+        <taxonpro>Species were identified by skilled observers in the field based on general appearance of feathers and plumage, behavior, and vocalization.</taxonpro>
+        <taxoncom>Taxonomy is completed for all samples. No voucher specimens were collected.</taxoncom>
+      </taxonsys>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Aves</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Charadriiformes</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Scolopacidae</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Genus</taxonrn>
+                            <taxonrv>Limosa</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Species</taxonrn>
+                              <taxonrv>Limosa fedoa</taxonrv>
+                              <common>Marbled Godwit</common>
+                              <common>TSN: 176686</common>
+                              <taxoncl>
+                                <taxonrn>Subspecies</taxonrn>
+                                <taxonrv>Limosa fedoa beringiae</taxonrv>
+                                <common>TSN: 824818</common>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None</accconst>
+    <useconst>It is requested that the authors and the USGS Alaska Science Center be cited for any subsequent publications that reference this dataset.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <crossref>
+      <citeinfo>
+        <origin>Ruthrauff, D.R. (ORCID 0000-0003-1355-9156)</origin>
+        <origin>Tibbitts, T.L. (ORCID: 0000-0002-0290-7592)</origin>
+        <origin>Gill, R.E., Jr. (ORCID: 0000-0002-6385-4500)</origin>
+        <pubdate>2019</pubdate>
+        <title>Flexible timing of annual movements across consistently used sites by Marbled Godwits breeding in Alaska.</title>
+        <geoform>journal article</geoform>
+        <serinfo>
+          <sername>The Auk: Ornithological Advances</sername>
+          <issue>136(1):uky007</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Online</pubplace>
+          <publish>Oxford Academic</publish>
+        </pubinfo>
+        <othercit>Ruthrauff, D.R., Tibbitts, T.L., Gill, R.E., Jr. 2019. Flexible timing of annual movements across consistently used sites by Marbled Godwits breeding in Alaska. Auk 136(1):uky007  doi:10.1093/auk/uky007</othercit>
+        <onlink>https://doi.org/10.1093/auk/uky007</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Data are considered to be accurate and of adequate quality and resolution to answer the stated objectives. To conserve power, the satellite transmitters provided location data intermittently. Thus, the documented use areas and the estimated arrival/departure dates have margins of uncertainty. More details about the magnitudes of those uncertainties are described below in the Process Step section.</attraccr>
+    </attracc>
+    <logic>The filtering algorithm that we applied to the source data (described in the Source Information section below) attempted to remove (filter) unrealistic values (e.g., physically implausible speeds or locations resulting in suspect turning angles) in a consistent, definable, and reproducible manner (details provided in the metadata of the source data; see Source Information section). Cause of variation in the number of locations and tracking duration for each animal is unknown, but generally related to factors such as mortality, transmitter detachment, or transmitter failure.</logic>
+    <complete>Cells for which a value could not be calculated or determined are represented by "NA." Such instances occurred when a transmitter ceased transmitting and assessment of location or duration was not possible. This dataset represents only land-based locations (i.e., breeding, nonbreeding, and migratory staging sites). The data are complete and no values were omitted.</complete>
+    <lineage>
+      <method>
+        <methtype>Field</methtype>
+        <methdesc>We used a helicopter staging out of the village of Ugashik to find nests and broods of godwits. We located godwits during overflights of likely godwit habitats. Upon observing a bird suspected of nesting or tending a brood, we landed the helicopter at a distance to observe the bird. If the godwit rejoined a nest, we gently placed a 6-m-long mist net over the nest and atop the incubating bird. When we observed birds exhibiting behaviors associated with brood attendance, we determined the approximate location of the brood, upon which we played a recording of chick distress calls to attract the adults. We then captured the adults by sweeping them out of the air in a 6-m-long mist net as they flew near the playback speaker. We fitted each adult with a 9.5 g solar-powered satellite transmitter (Microwave Telemetry, Columbia, Maryland, USA) attached over the bird’s synsacrum using a modified leg-loop harness constructed of 4.0-mm wide Teflon ribbon affixed with small brass crimps.</methdesc>
+      </method>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Ruthrauff, D.R. (ORCID: 0000-0003-1355-9156)</origin>
+            <origin>Tibbitts, T.L. (ORCID: 0000-0002-0290-7592)</origin>
+            <origin>Gill, R.E., Jr. (ORCID: 0000-0002-6385-4500)</origin>
+            <origin>Douglas, David C. (ORCID: 0000-0003-0186-1104)</origin>
+            <pubdate>2019</pubdate>
+            <title>Satellite Telemetry Data for Marbled Godwit (Limosa fedoa)</title>
+            <geoform>tabular digital data</geoform>
+            <serinfo>
+              <sername>USGS Data Release</sername>
+              <issue>doi:10.5066/P9NORY48</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>U.S. Geological Survey, Alaska Science Center</publish>
+            </pubinfo>
+            <othercit>Ruthrauff, D.R., T.L. Tibbitts, R.E. Gill, Jr., and Douglas, D.C., 2019, Satellite Telemetry Data for Marbled Godwit (Limosa fedoa), (ver 1.0, 2019) U.S. Geological Survey data release, https://doi.org/10.5066/P9NORY48</othercit>
+            <onlink>https://doi.org/10.5066/P9NORY48</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>digital database file</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2019</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ASC_Godwit_Telemetry</srccitea>
+        <srccontr>This source provided processed satellite tracking data with implausible tracking locations excluded (filename: marbledGodwit_USGS_ASC_argos_diag_filteredLocations.csv).</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>We estimated the migratory timing and site use of Marbled Godwits throughout the annual cycle by visualizing the filtered location data (data available; see Source ASC_Godwit_Telemetry). We used Google Earth (Goggle LLC, Mountain View, California, USA) for visualizing the time-stamped tracking data for each individual godwit. We analyzed each godwits' locations in chronological order to document associated movements and site use. Because of the transmitters’ 10-hr-on/48-hr-off reporting cycle, we were often unable to determine the exact timing of a bird’s departure from or arrival to a site. In these instances, we estimated the timing of such movements by applying a series of decisions based on the timing of locations immediately prior to departures and following arrivals. In-flight tracks revealed that godwits did not travel over land other than when traversing the Alaska Peninsula while arriving at or departing from breeding sites. Thus, if transmitters detailed in-flight movements over marine waters within 100 km of either a departure or arrival site, we applied the rate of movement from those in-flight tracks to the first or last in-flight location to estimate the timing of departure or arrival, respectively. In the event that movements occurred such that we received no in-flight tracks, we assumed that the last on-land location prior to movement was the departure time, and applied a rate of 55 km hr-1 to estimate the time of arrival. For the purposes of this study, we defined a ‘site’ as any location visited by a godwit where at least 3 standard locations indicated local or no movement (i.e., rates of movement ≤55 km hr-1). Given the positional accuracy of the transmitters, we did not attempt to assess within-site movements and restricted our investigations to broad-scale movements. Further, we defined a nonbreeding site as the most southerly location that a particular godwit resided after their post-breeding migration, and a stopover site as any site visited outside of the breeding and nonbreeding periods during which a bird’s locations and rates indicated only local movement. In this way, we determined the timing of migratory movements, the sites associated with these movements, the duration of each stage of a migratory movement, and the overall duration of a migratory movement.</procdesc>
+        <procdate>2017</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>Departure/Arrival site names are mostly derived from geographic names in the USGS Geographic Names Information System (GNIS) or the NGIA GeoNames System. They represent discrete areas along the Pacific coast used by Marbled Godwits in the study.</indspref>
+    <direct>Point</direct>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>marbledGodwit_telemetry_ugashik_ruthrauff.csv</enttypl>
+        <enttypd>Table showing the location and timing of migratory movements and stationary periods of nine Marbled Godwits marked with satellite transmitters near Ugashik, Alaska. Presented in a Comma Separated Value (CSV) formatted table.</enttypd>
+        <enttypds>Author defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Sort_Order</attrlabl>
+        <attrdef>A housekeeping column to ensure that each Marbled Godwit's migratory movements can be easily sorted to chronological order.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>104</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Animal_ID</attrlabl>
+        <attrdef>The unique identifier for each of nine Marbled Godwits monitored in this study.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <udom>A seven character alphanumeric code beginning with a 4 letter abbreviation of the species (MAGO) followed by an underscore and a unique 2 character notation of identifying leg bands.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>Calendar year</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2008</rdommin>
+            <rdommax>2015</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Season</attrlabl>
+        <attrdef>The season in which the migratory movements occurred.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>fall</edomv>
+            <edomvd>Movements associated with the post-breeding (fall) season</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>spring</edomv>
+            <edomvd>Movements associated with the pre-breeding (spring) season</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates a non-terminal segment of the migration, or that a transmitter failed, or that a study animal died, resulting in a lack of data for the first or last segment of a migration.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Departure_UTC</attrlabl>
+        <attrdef>The last date and time that an individual was recorded at a site - Coordinated Universal Time (UTC).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/12/2008 2:02</rdommin>
+            <rdommax>7/19/2015 1:37</rdommax>
+            <attrunit>MM/DD/YYYY HH:mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates a non-terminal segment of the migration, or that a transmitter failed, or that a study animal died, resulting in a lack of data for the first or last segment of a migration.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Arrival_UTC</attrlabl>
+        <attrdef>The first date and time that an individual was recorded at a site - Coordinated Universal Time (UTC).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/14/2008 4:53</rdommin>
+            <rdommax>7/20/2015 18:20</rdommax>
+            <attrunit>MM/DD/YYYY HH:mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates a non-terminal segment of the migration, or that a transmitter failed, or that a study animal died, resulting in a lack of data for the first or last segment of a migration.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Departure_Local</attrlabl>
+        <attrdef>The last date and time that an individual was recorded at a site - Local Time Zone. Note that the migratory range of Marbled Godwits spans the Pacific and Alaska time zones, and so these dates and times reflect the local time zone and standard/daylight savings time.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/11/2008 17:02</rdommin>
+            <rdommax>7/18/2015 16:37</rdommax>
+            <attrunit>MM/DD/YYYY HH:mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates a non-terminal segment of the migration, or that a transmitter failed, or that a study animal died, resulting in a lack of data for the first or last segment of a migration.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Arrival_Local</attrlabl>
+        <attrdef>The first date and time that an individual was recorded at a site - Local Time Zone. Note that the migratory range of Marbled Godwits spans the Pacific and Alaska time zones, and so these dates and times reflect the local time zone and standard/daylight savings time.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7/13/2008 20:53</rdommin>
+            <rdommax>7/20/2015 10:20</rdommax>
+            <attrunit>MM/DD/YYYY HH:mm</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates a non-terminal segment of the migration, or that a transmitter failed, or that a study animal died, resulting in a lack of data for the first or last segment of a migration.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Flight_Duration_Hours</attrlabl>
+        <attrdef>Absolute duration of migratory flight in hours; calculated as the difference between Departure_UTC and Arrival_UTC.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.20</rdommin>
+            <rdommax>111.32</rdommax>
+            <attrunit>Hours</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates a lack of data for the first and/or last segment of a migration preventing the calculation.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Stage</attrlabl>
+        <attrdef>Alphanumeric value reflecting the migration direction: southward (fall) or northward (spring) and sequential numbering of migratory stage (1-6).</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>S1</edomv>
+            <edomvd>First leg of southward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>S2</edomv>
+            <edomvd>Second leg of southward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>S3</edomv>
+            <edomvd>Third leg of southward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>S4</edomv>
+            <edomvd>Fourth leg of southward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>S5</edomv>
+            <edomvd>Fifth leg of southward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N1</edomv>
+            <edomvd>First leg of northward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N2</edomv>
+            <edomvd>Second leg of northward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N3</edomv>
+            <edomvd>Third leg of northward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N4</edomv>
+            <edomvd>Fourth leg of northward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N5</edomv>
+            <edomvd>Fifth leg of northward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N6</edomv>
+            <edomvd>Sixth leg of northward migration</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates available transmitter data was insufficient to assign a migration segment.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Overall_Duration_Days</attrlabl>
+        <attrdef>Overall duration of a southward or northward migration; calculated as the difference between the departure from breeding or nonbreeding location and arrival at nonbreeding or breeding location, respectively.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.53</rdommin>
+            <rdommax>29.19</rdommax>
+            <attrunit>Days</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates a transmitter failed to provide data for the first and/or last segment of a migration preventing calculation of the migration duration.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Final_Destination</attrlabl>
+        <attrdef>Whether the arrival location associated with this record represents the Marbled Godwit's final destination for that leg of the migration.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates available transmitter data was insufficient to track the individual to a non-migratory stage location.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Departure_Site</attrlabl>
+        <attrdef>Geographic location from which the Marbled Godwit departed. Values represent generalized location names reflecting the most specific geographic name attribute feasible at the scale of each bird's movements.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>baranof</edomv>
+            <edomvd>Baranof Island, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>becharoftundra</edomv>
+            <edomvd>Locations on the tundra near Becharof Lake, Alaska.</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>bodega</edomv>
+            <edomvd>Bodega Bay, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>bodega_drakes</edomv>
+            <edomvd>Bodega Bay and Drakes Estero, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>bolinas_ocean</edomv>
+            <edomvd>Locations near Bolinas Bay and Ocean Beach, California.</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>chiginagak</edomv>
+            <edomvd>Chiginagak, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>controller</edomv>
+            <edomvd>Controller Bay, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>copper</edomv>
+            <edomvd>Copper River Delta, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>dillon</edomv>
+            <edomvd>Locations near Bird Rock, Marin County, California.</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>drakes</edomv>
+            <edomvd>Drakes Estero, California.</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>grays</edomv>
+            <edomvd>Grays Harbor, Washington</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>green_is_bc</edomv>
+            <edomvd>Green Island, British Columbia</edomvd>
+            <edomvds>NGIA GeoNames System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>humboldt</edomv>
+            <edomvd>Humboldt Bay, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>humboldt_trinidad</edomv>
+            <edomvd>Locations near Clam Beach, Humboldt County, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>kamishak</edomv>
+            <edomvd>Kamishak Bay, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>kodiak</edomv>
+            <edomvd>Kodiak Island, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>kvichaktundra</edomv>
+            <edomvd>Locations on tundra southeast of Kvichak Bay and south of the Naknek River, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>malaspina</edomv>
+            <edomvd>Malaspina Glacier, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>montague</edomv>
+            <edomvd>Montague Island, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>moss</edomv>
+            <edomvd>Elkhorn Slough, Monterey County, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ptarena</edomv>
+            <edomvd>The cape known as Point Arena in Mendocino County, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>se_ak1</edomv>
+            <edomvd>Location on Prince of Wales Island, Alaska south of 55.4 decimal degrees latitude.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>se_ak2</edomv>
+            <edomvd>Location on Prince of Wales Island, Alaska north of 55.9 decimal degrees latitude.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>tofino</edomv>
+            <edomvd>Tofino, British Columbi</edomvd>
+            <edomvds>NGIA GeoNames System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ucluelet</edomv>
+            <edomvd>Ucluelet, British Columbia</edomvd>
+            <edomvds>NGIA GeoNames System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ugashik</edomv>
+            <edomvd>Ugashik Bay, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>vancouver_is</edomv>
+            <edomvd>Vancouver Island, British Columbia</edomvd>
+            <edomvds>NGIA GeoNames System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>wide</edomv>
+            <edomvd>Wide Bay, on the south coast of Alaska Peninsula</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>willapa</edomv>
+            <edomvd>Willapa Bay, Washington</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>willapa_grays</edomv>
+            <edomvd>Locations in Willapa Bay and Grays Harbor, Washington</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>yakutat</edomv>
+            <edomvd>Yakutat, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>yak_alsek</edomv>
+            <edomvd>near the Alsek River, Malaspina Glacier coastal plain, Alaska</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>yak_danger</edomv>
+            <edomvd>Near the Dangerous River, Malaspina coastal plain, Alaska</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates available transmitter data was insufficient to assign a departure site.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Arrival_Site</attrlabl>
+        <attrdef>Geographic location to which the Marbled Godwit arrived. Values represent generalized location names reflecting the most specific geographic name attribute feasible at the scale of each bird's movements.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>baranof</edomv>
+            <edomvd>Baranof Island, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>becharoftundra</edomv>
+            <edomvd>Locations on tundra near Becharof Lake, Alaska</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>bodega</edomv>
+            <edomvd>Bodega Bay, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>bodega_drakes</edomv>
+            <edomvd>Bodega Bay and Drakes Estero, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>bolinas_ocean</edomv>
+            <edomvd>Locations near Bolinas Bay and Ocean Beach, California</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>chiginagak</edomv>
+            <edomvd>Chiginagak Bay, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>controller</edomv>
+            <edomvd>Controller Bay, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>copper</edomv>
+            <edomvd>Copper River Delta, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>dillon</edomv>
+            <edomvd>Locations near Bird Rock, Marin County, California</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>drakes</edomv>
+            <edomvd>Drakes Estero, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>grays</edomv>
+            <edomvd>Grays Harbor, Washington</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>green_is_bc</edomv>
+            <edomvd>Green Island, British Columbia</edomvd>
+            <edomvds>NGIA GeoNames System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>humboldt</edomv>
+            <edomvd>Humboldt Bay, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>humboldt_trinidad</edomv>
+            <edomvd>Locations near Clam Beach, Humboldt County, California</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>kamishak</edomv>
+            <edomvd>Kamishak Bay, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>kodiak</edomv>
+            <edomvd>Kodiak Island, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>kvichaktundra</edomv>
+            <edomvd>Locations on tundra southeast of Kvichak Bay and south of the Naknek River, Alaska</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>malaspina</edomv>
+            <edomvd>Malaspina Glacier, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>montague</edomv>
+            <edomvd>Montague Island, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>moss</edomv>
+            <edomvd>Elkhorn Slough, Monterey County, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ptarena</edomv>
+            <edomvd>The cape known as Point Arena, Mendocino County, California</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>se_ak1</edomv>
+            <edomvd>Location on Prince of Wales Island, Alaska, south of 55.4 decimal degrees latitude</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>se_ak2</edomv>
+            <edomvd>Location on Prince of Wales Island, Alaska, north of 55.9 decimal degrees latitude</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>sf_bay</edomv>
+            <edomvd>San Francisco Bay, California</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>tofino</edomv>
+            <edomvd>Tofino, British Columbia</edomvd>
+            <edomvds>NGIA GeoNames System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ucluelet</edomv>
+            <edomvd>Ucluelet, British Columbia</edomvd>
+            <edomvds>NGIA GeoNames System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ugashik</edomv>
+            <edomvd>Ugashik Bay, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>vancouver_is</edomv>
+            <edomvd>Vancouver Island, British Columbia</edomvd>
+            <edomvds>NGIA GeoNames System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>wide</edomv>
+            <edomvd>Wide Bay, on the south coast of Alaska Peninsula, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>willapa</edomv>
+            <edomvd>Willapa Bay, Washington</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>willapa_grays</edomv>
+            <edomvd>Willapa Bay and Grays Harbor, Washington</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>yakutat</edomv>
+            <edomvd>Yakutat, Alaska</edomvd>
+            <edomvds>USGS Geographic Names Information System</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>yak_alsek</edomv>
+            <edomvd>Near the Alsek River, Malaspina Glacier coastal plain, Alaska</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>yak_danger</edomv>
+            <edomvd>Near the Dangerous River, Malaspina Glacier coastal plain, Alaska</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates available transmitter data was insufficient to assign a arrival site.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Stay_Duration_Hours</attrlabl>
+        <attrdef>Duration of stay in hours at the arrival location associated with this record, calculated as the difference between the first record of the individual at the general location and the last record of the individual at the general location.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.63</rdommin>
+            <rdommax>7190.23</rdommax>
+            <attrunit>Hours</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>The U.S. Geological Survey, Alaska Science Center is the authoritative source and distributor of these data.</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data for other purposes or on all computer systems, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formcont>Data are distributed in a Zip package containing data in CSV format and FGDC metadata in XML and HTML formats.</formcont>
+          <filedec>Compression applied by the 7-Zip utility using the default compression level [5]. The Zip package can be decompressed and unpacked by open source or commercially available unzip tools.</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/F7XK8DTM</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20221125</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata (CSDGM)</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
